@@ -1,0 +1,38 @@
+Image identifier:
+
+
+need to get image ids from nflfastr
+
+Splits:
+-shotgun
+-non shotgun
+
+-run/pass
+
+
+-tight end count
+-te alignment
+-back count
+-back alignment
+-wr count (l/r)
+-wr alignment
+-wr bunch or stack
+-fb
+
+
+-playaction (t/f)
+-jet sweep motion (fake or real)
+-motion
+
+-rushers 
+-coverage - man zone
+-safety shell
+-fake blitz
+-secondary blitz
+
+
+-set up slack channel with dan
+
+-which hash is the ball on
+
+
